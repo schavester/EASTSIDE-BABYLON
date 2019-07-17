@@ -23,3 +23,6 @@ published : true
 logo: assets/img/logo.png
 footnote: "GitPitch Theme Template Quickstart"
 
+### activate stealth mode for safety!
+
+stealth : jasper
